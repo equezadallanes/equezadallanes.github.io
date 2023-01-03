@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "Enrique Quezada-Llanes"
+  navbar:
+    pinned: true
+    background: white 
+    foreground: gray-700
+    right:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - teaching.qmd
+      - cv.qmd
+      - about.qmd
+      - icon: github
+        href: https://github.com/equezadallanes/
+      - icon: twitter
+        href: https://twitter.com/oequezada
+  search: false
+  page-footer: "Rice University <br> Department of Political Science, MS-24 <br> 6100 Main Street <br> Houston, TX 77005 <br> enrique.quezada@rice.edu<br><br>" 
+    
+  
+
+format:
+  html:
+    theme: 
+      - flatly
+      - html/custom.scss
+    css: styles.css
+    linestretch: 1.8
+
+editor: visual
+

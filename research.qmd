@@ -1,0 +1,17 @@
+---
+title: "Research"
+---
+
+## Publications
+
+"Se Habla Español: Spanish-language Appeals and Candidate Evaluations in the United States." Conditionally accepted at the *American Political Science Review* (with [Marques Zárate](http://marqueszarate.com/index.html) and Angel Armenta)
+
+-   Political candidates engage in Spanish-language appeals in efforts to increase support among Hispanic voters. We argue that candidates, Hispanic or not, can use Spanish to signal closeness to Hispanics, and posit that the effectiveness of these appeals is conditional on proficiency. To test this, we run two experiments where participants listen to an audio clip of a hypothetical candidate's stump speech. We vary the ethnicity of the candidate (Anglo or Hispanic) and the language of the speech (English, non-native Spanish, and native-like Spanish). We find that Hispanic support for the Anglo and Hispanic candidates is higher in the native-like Spanish condition compared to the English-only condition. Relative to the English condition, non-native Spanish does not increase support for the Anglo candidate but it decreases support for the Hispanic candidate. We find mixed effects for Anglo participants. Our results suggest that candidates can effectively appeal to Hispanic voters using Spanish-language messages.
+
+"How Sermons Became More Political in the Trump Era." Book Chapter. In Paul A. Djupe and A.E. Sokhey (Eds), *Trump and the Transformation of Religion and Politics.* In Press. (with [Shayla Olson](https://shaylafolson.org/))
+
+## Work in Progress
+
+"The Role of Spanish Language on Latino Group Consciousness"
+
+"The Use of Shibboleths in Political Campaigns"
