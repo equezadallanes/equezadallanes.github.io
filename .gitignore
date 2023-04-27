@@ -1,5 +1,7 @@
 /.quarto/
+/docs/
 .Rproj.user
 equezadallanes.Rproj
 .Rhistory
 .Rprofile
+.DS_Store
