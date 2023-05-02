@@ -5,6 +5,7 @@ project:
 website:
   title: "Enrique Quezada-Llanes"
   favicon: files/favicon-16x16.png
+  google-analytics: "G-Q9BGGFZRB1"
   navbar:
     pinned: true
     background: white 
