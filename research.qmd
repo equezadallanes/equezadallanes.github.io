@@ -4,8 +4,8 @@ title: "Research"
 
 ## Publications
 
-Zárate, Marques G., **Enrique Quezada-Llanes**, and Angel D. Armenta. Forthcoming. ["Se Habla Español: Spanish-language Appeals and Candidate Evaluations in the United States."](https://doi.org/10.1017/S0003055423000084){target="_blank"} *American Political Science Review.* 
-<button class="btn btn-primary  btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Abstract</button>
+Zárate, Marques G., **Enrique Quezada-Llanes**, and Angel D. Armenta. Forthcoming. "Se Habla Español: Spanish-language Appeals and Candidate Evaluations in the United States." *American Political Science Review.* 
+<button class="btn btn-primary  btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Abstract</button> [<button class="btn btn-primary  btn-sm" type="button">PDF</button>](https://doi.org/10.1017/S0003055423000084){target="_blank"}
 
 
 ```{=html}
