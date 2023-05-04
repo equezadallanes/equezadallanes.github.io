@@ -24,6 +24,8 @@ website:
   search: false
   page-footer: "Rice University <br> Department of Political Science, MS-24 <br> 6100 Main Street <br> Houston, TX 77005 <br> enrique.quezada@rice.edu<br><br>" 
     
+resources:
+  - CNAME
   
 
 format:
