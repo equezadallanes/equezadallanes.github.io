@@ -4,8 +4,8 @@ title: "Research"
 
 ## Publications
 
-Zárate, Marques G., **Enrique Quezada-Llanes**, and Angel D. Armenta. Forthcoming. "Se Habla Español: Spanish-language Appeals and Candidate Evaluations in the United States." *American Political Science Review.* 
-<button class="btn btn-primary  btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Abstract</button> [<button class="btn btn-primary  btn-sm" type="button">PDF</button>](https://doi.org/10.1017/S0003055423000084){target="_blank"}
+Zárate, Marques G., **Enrique Quezada-Llanes**, and Angel D. Armenta. Forthcoming. ["Se Habla Español: Spanish-language Appeals and Candidate Evaluations in the United States."](https://doi.org/10.1017/S0003055423000084) *American Political Science Review.* 
+<button class="btn btn-primary  btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Abstract</button> [<button class="btn btn-primary  btn-sm" type="button">PDF</button>](files/APSR_2023.pdf){target="_blank"}
 
 
 ```{=html}
@@ -18,7 +18,7 @@ Zárate, Marques G., **Enrique Quezada-Llanes**, and Angel D. Armenta. Forthcomi
 ```
 
 
-Olson, Shayla and **Enrique Quezada-Llanes**. "How Sermons Became More Political in the Trump Era." Book Chapter. In Paul A. Djupe and A.E. Sokhey (Eds), *Trump and the Transformation of Religion and Politics.* In Press.
+Olson, Shayla and **Enrique Quezada-Llanes**. In Press. "How Sermons Became More Political in the Trump Era." In Paul A. Djupe and A.E. Sokhey (Eds), *Trump, White Evangelical Christians, and American Politics: Change and Continuity.* University of Pennsylvania Press.
 
 ## Work in Progress
 

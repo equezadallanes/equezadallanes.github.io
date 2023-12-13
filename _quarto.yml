@@ -37,3 +37,6 @@ format:
 
 editor: visual
 
+filters:
+  - newpagelink.lua
+  
