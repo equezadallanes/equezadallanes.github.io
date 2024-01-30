@@ -21,7 +21,7 @@ website:
       - icon: twitter
         href: https://twitter.com/oequezada
   search: false
-  page-footer: "Agnes Scott College <br> 141 E. College Ave. <br> Decatur, GA 30030 <br> equezada@agnesscott.edu<br><br>" 
+  page-footer: "Agnes Scott College <br> 141 E. College Ave. <br> Decatur, GA 30030 <br> equezada (at) agnesscott.edu<br><br>" 
     
 resources:
   - CNAME
