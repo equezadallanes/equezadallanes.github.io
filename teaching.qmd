@@ -6,14 +6,15 @@ title: "Teaching"
 
 ### Instructor of Record
 
-POL 102 - Introduction to American Politics, Spring 2024
+POL 102 - Introduction to American Politics: Spring 2024
 
-POL 330 - Latine Politics in the U.S., Spring 2024 [<button class="btn btn-primary  btn-sm" type="button">Syllabus</button>](files/POL330_Spring24.pdf){target="_blank"}
+POL 226 - Approaches to Political Science (methods): Fall 2023, Fall 2024
 
-POL 226 - Approaches to Political Science (methods), Fall 2023
+POL/PSY 309 - Political Psychology: Fall 2024
 
-POL 310 - Religion and Politics in the United States, Fall 2023
+POL/REL 310 - Religion and Politics in the United States: Fall 2023, Fall 2024
 
+POL 330 - Latine Politics in the U.S.: Spring 2024 [<button class="btn btn-primary  btn-sm" type="button">Syllabus</button>](files/POL330_Spring24.pdf){target="_blank"}
 
 ## Rice University
 
