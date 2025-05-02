@@ -30,7 +30,7 @@ resources:
 format:
   html:
     theme: 
-      - flatly 
+      - flatly
       - html/custom.scss
     css: styles.css
     linestretch: 1.8
