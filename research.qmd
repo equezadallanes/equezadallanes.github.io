@@ -5,12 +5,12 @@ title: "Research"
 ## Journal Articles
 
 
-Mrchkovska, Nela, and **Enrique Quezada-Llanes**. Forthcoming. "Voices from the Pulpit: Discourse on Racial Justice and Gun Violence from American Clergy." *Sociological Focus* <button class="btn btn-primary  btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample">Abstract</button>
+Mrchkovska, Nela, and **Enrique Quezada-Llanes**. 2025. ["Voices from the Pulpit: Discourse on Racial Justice and Gun Violence from American Clergy."](https://doi.org/10.1080/00380237.2025.2516814) *Sociological Focus* <button class="btn btn-primary  btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample">Abstract</button>
 
 ```{=html}
 <div class="collapse" id="collapseExample2">
   <div class="card card-body">
-    Over the past years, many religious congregations have addressed issues of racial justice and gun violence following the killing of George Floyd and recent mass shootings in places like Uvalde (Texas), Atlanta (Georgia), and Monterey Park (California). However, existing work suggests that which places of worship respond and how they respond depends on congregational, denominational, and contextual factors. Most of this work relies on self-reports from congregants or clergy. We take a different approach by directly observing the messages religious individuals hear during worship. Using large language models (LLMs) to help identify which sermons include discussions of racial justice or gun violence, we analyze close to 200,000 sermons across 2,863 US congregations. We find that, even though discussions of racial issues and gun violence are relatively rare events in religious sermons, major tragic events like the killing of George Floyd and several mass shootings taking place between 2018 and 2023 increase the probability of congregation leaders addressing these topics. We also find that, in some cases, mainline Protestant sermons are more responsive to these tragic events compared to evangelical Protestant sermons.
+    Over the past years, many religious congregations have addressed issues of racial justice and gun violence following the killing of George Floyd and recent mass shootings in places like Uvalde, Texas, Atlanta, Georgia, and Monterey Park, California. However, existing work suggests that which places of worship respond and how they respond depends on congregational, denominational, and contextual factors. Most of this work relies on self-reports from congregants or clergy. We take a different approach by directly observing the messages religious individuals hear during worship. Using large language models (LLMs) to help identify which sermons include discussions of racial justice or gun violence, we analyze close to 200,000 sermons across 2,863 US congregations. We found that, even though discussions of racial issues and gun violence are relatively rare events in religious sermons, major tragic events like the killing of George Floyd and several mass shootings taking place between 2018 and 2023 increase the probability of congregation leaders addressing these topics. We also found that, in some cases, mainline Protestant sermons are more responsive to these tragic events compared to evangelical Protestant sermons.
   </div>
   <br>
 </div>
@@ -35,15 +35,13 @@ Zárate, Marques G., **Enrique Quezada-Llanes**, and Angel D. Armenta. 2024. ["S
 
 ## Other Writing
 
+Quezada-Llanes, Enrique. Forthcoming. "Ethnic, Linguistic, and Religious Minority Participation and Representation in the United States."" In *Oxford Bibliographies in Political Science,* ed. Mark P. Jones. New York: Oxford University Press.
 
-Olson, Shayla and **Enrique Quezada-Llanes**. 2024. "How Sermons Became More Political in the Trump Era." In Paul A. Djupe and A.E. Sokhey (Eds), *Trump, White Evangelical Christians, and American Politics: Change and Continuity.* University of Pennsylvania Press.
+
+Olson, Shayla and **Enrique Quezada-Llanes**. 2024. "How Sermons Became More Political in the Trump Era." In *Trump, White Evangelical Christians, and American Politics: Change and Continuity,* eds. Paul A. Djupe and A.E. Sokhey. University of Pennsylvania Press.
 
 Quezada-Llanes, Enrique. 2020. “U.S. Citizenship Test.” In *Voting and Political Representation in America: Issues and Trends,* ed. Mark P. Jones.
 
-
-## Under Review
-
-"Ethnic, Linguistic, and Religious Minority Participation and Representation in the United States." *Oxford Bibliographies in Political Science*.
 
 
 
