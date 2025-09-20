@@ -5,3 +5,5 @@ equezadallanes.Rproj
 .Rhistory
 .Rprofile
 .DS_Store
+
+**/*.quarto_ipynb

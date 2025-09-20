@@ -16,6 +16,8 @@ website:
       - teaching.qmd
       - cv.qmd
       - about.qmd
+      - href: posts.qmd
+        text: Misc.
       - icon: github
         href: https://github.com/equezadallanes/
       - icon: twitter
