@@ -5,7 +5,8 @@ title: "Research"
 ## Journal Articles
 
 
-Mrchkovska, Nela, and **Enrique Quezada-Llanes**. 2025. ["Voices from the Pulpit: Discourse on Racial Justice and Gun Violence from American Clergy."](https://doi.org/10.1080/00380237.2025.2516814) *Sociological Focus* <button class="btn btn-primary  btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample">Abstract</button>
+Mrchkovska, Nela, and **Enrique Quezada-Llanes**. 2025. ["Voices from the Pulpit: Discourse on Racial Justice and Gun Violence from American Clergy."](https://doi.org/10.1080/00380237.2025.2516814) *Sociological Focus* 58 (3): 323–343. 
+<button class="btn btn-primary  btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample">Abstract</button>
 
 ```{=html}
 <div class="collapse" id="collapseExample2">
@@ -45,10 +46,12 @@ Olson, Shayla and **Enrique Quezada-Llanes**. 2024. "How Sermons Became More Pol
 
 ## Under Review
 
-"The Contours of Latine Political Interests" (with Marques G. Zárate)
+"'Here Am I, Send Me': Religious Cues, Group Membership, and Candidate Evaluations"
 
 
 ## Work in Progress
+
+"The Contours of Latine Political Interests" (with Marques G. Zárate)
 
 "Drawing Religious Group Boundaries in a Polarized Partisan Context" (with Shayla F. Olson)
 
@@ -58,6 +61,6 @@ Olson, Shayla and **Enrique Quezada-Llanes**. 2024. "How Sermons Became More Pol
 
 "The Role of Spanish Language on Latino Group Consciousness"
 
-"The Use of Shibboleths in American Political Campaigns"
+
 
 
