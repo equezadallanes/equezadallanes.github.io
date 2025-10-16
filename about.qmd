@@ -3,7 +3,7 @@ title: "About"
 ---
 
 
-![Me in 2021](files/quezada-edited.jpg){.img}
+![](files/quezada-edited.jpg){.img}
 
 
 During graduate school, I was a graduate fellow for the Religion and Public Life Program at the Boniuk Institute for Religious Tolerance and for the Center for the United States and Mexico at the Baker Institute for Public Policy. In the latter position, I hosted and produced the [*Judy Ley Allen Mexico Centered*](https://podcasts.apple.com/us/podcast/judy-ley-allen-mexico-centered/id1316117842){target="_blank"} podcast, where I interviewed many academics as well as current and former government officials from the United States and Mexico.
