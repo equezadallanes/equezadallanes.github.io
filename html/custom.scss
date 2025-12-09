@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Noticia+Text:ital,wght@0,200;0,400;0,700;1,200;1,400;1,700');
+@import url('https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&family=Geist:wght@100..900&family=Hedvig+Letters+Serif:opsz@12..24&display=swap');
 
 /*-- scss:defaults --*/
 $white:    #fff !default;
@@ -28,6 +28,13 @@ $cyan:    #3498db !default;
 $cyan-bluish-gray: #abb8c3 !default;
 $steelBlue: #4682B4 !default;
 
+$dark-green: #858E79;
+$light-green: #D1D9CE;
+$lighter-green: #DEE4DC;
+$cream: #FDFBF7;
+$purple: #9158A2;
+
+
 $primary:       $blue !default;
 $secondary:     $gray-600 !default;
 $success:       $green !default;
@@ -41,24 +48,32 @@ $min-contrast-ratio:   2.05 !default;
 
 // Links
 
-$link-color:                $steelBlue !default;
+$link-color: $purple;
 
 
-
-$font-family-sans-serif:      'Noticia Text', sans-serif !default;
-$font-family-serif:           'Noticia Text', serif !default;
+$font-family-sans-serif:      'Geist', sans-serif !default;
+$font-family-serif:           'Geist Mono', serif !default;
 
 $font-size-base:              .9rem !default;
+$body-bg: $lighter-green; // page background 
 $body-color:                  $gray-700 !default;
+$footer-bg: $lighter-green; // footer 
 
-$h1-font-size:                2.5rem !default;
-$h2-font-size:                2rem !default;
-$h3-font-size:                1.5rem !default;
+$h1-font-size:                2rem !default;
+$h2-font-size:                1.5rem !default;
+$h3-font-size:                1.2rem !default;
+
+
 
 
 // Navbar
 
-$navbar-padding-y:                  1rem !default;
+$navbar-bg: $cream; // navbar
+$navbar-fg: $dark-green; // navbar foreground elements
+$navbar-hl: $purple; // highlight color when hovering over navbar links
+
+
+$navbar-padding-y:                  .5rem !default;
 $navbar-dark-color:                 $white !default;
 $navbar-dark-hover-color:           $primary !default;
 $navbar-dark-active-color:          $dark !default;
@@ -70,9 +85,19 @@ $navbar-dark-brand-hover-color:           $navbar-dark-brand-color !default;
 
 
 /*-- scss:rules --*/
+h1 {
+  font-family: $font-family-serif;
+}
+
+
 h2 {
+  font-family: $font-family-serif;
   border-bottom: none;
 }
+
+h3 {
+  font-family: $font-family-serif;
+  }
 
 ul,
 ol {
@@ -90,6 +115,7 @@ ol {
 }
 
 .navbar-brand {
+        font-family: $font-family-serif;
         font-size: 1.5rem;
         font-weight: bold;
 }
